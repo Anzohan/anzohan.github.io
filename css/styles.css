@@ -1,0 +1,31 @@
+.title-table {width: 100%; background-color: #313131; height: 5%; padding-left: 2.5%; padding-right: 2.5%;}
+
+.title-text {color: white; font-family: Trebuchet MS; font-size: 36; font-style: italic;}
+
+.page-body {margin: 0%; padding: 0%;}
+
+.general-info-table {width: 60%; margin-top: 3%; margin-left: 20%; margin-right: 20%;}
+
+.general-info-avatar {width: 15%;}
+
+.general-info-desc {padding-top: 2%;}
+
+.description {color: #555555; font-family: Trebuchet MS; font-size: 24;}
+
+.list-apps-title-row {padding-top: 3%;}
+
+.list-apps-title-text {color: #555555; font-family: Trebuchet MS; font-size: 28; font-weight: bold; font-style: italic;}
+
+.list-apps-table {width: 40%; margin-top: 1%; margin-left: 30%; margin-right: 30%;}
+
+.list-apps-line {background-color: #313131; #width: 100%; height: 0.5%;}
+
+.list-apps-label {color: #555555; font-family: Trebuchet MS; font-size: 26; font-weight: bold;}
+
+.list-apps-icon {height: 60%;}
+
+.list-apps-desc {color: #555555; font-family: Trebuchet MS; font-size: 16;}
+
+.list-apps-downdload-ic {width: 40%;}
+
+.contact-text {color: #555555; font-family: Trebuchet MS; font-size: 24;}
